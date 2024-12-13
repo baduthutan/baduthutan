@@ -8,7 +8,7 @@
 
 <!-- ADD Curl supaya terlihat keren -->
 ```python3
-curl -L vinchenamigo.com
+https://baduthutan.github.io/
 ```
 
 <details open>
