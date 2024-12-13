@@ -22,8 +22,6 @@ https://baduthutan.github.io/
   <img width="44%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=baduthutan&layout=compact&langs_count=7&bg_color=00000000&hide_border=true&title_color=00B2EE&text_color=6aa84f">
   <h1> </h1>
   <p align="center">
-  <!-- STREAK INFORMATION -->
-  <img width="75%" src="https://streak-stats.demolab.com/?user=baduthutan&theme=transparent&hide_border=true&currStreakLabel=00B2EE&sideLabels=00B2EE&fire=6aa84f&currStreakNum=6aa84f&sideNums=6aa84f">
 </details>
 
 <!-- DROPDOWN SOCIAL MEDIA -->
