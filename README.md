@@ -1,6 +1,6 @@
 <h1 align="center">
   <!-- HAND ANIMATION -->
-  Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
+  Hallo Rek! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 </h1>
 
 <!-- VISITOR BADGE -->
@@ -25,9 +25,6 @@ https://baduthutan.github.io/
   <!-- STREAK INFORMATION -->
   <img width="75%" src="https://streak-stats.demolab.com/?user=baduthutan&theme=transparent&hide_border=true&currStreakLabel=00B2EE&sideLabels=00B2EE&fire=6aa84f&currStreakNum=6aa84f&sideNums=6aa84f">
 </details>
-
-<!-- ### Support Me
-<a href="https://saweria.co/" target="_blank">SAWERIA.CO</a> -->
 
 <!-- DROPDOWN SOCIAL MEDIA -->
 <details open>
